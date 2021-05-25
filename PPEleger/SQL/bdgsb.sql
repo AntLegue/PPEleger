@@ -189,7 +189,7 @@ CREATE TABLE `visiteur` (
 INSERT INTO `visiteur` (`id`, `nom`, `prenom`, `adresse`, `ville`, `dte`, `CP`, `login`, `password`) VALUES
 (1, ' Legué', ' Antoine', ' 57 Boulevard Jean Moulin', 'Brest', '2021-04-08', 29200, 'ALegue', 'P@ssword'),
 (6, ' Roustand', ' Theo', ' 31 rue Maria', 'Brest', '2021-05-14', 29200, 'TRoustand', 'Mdp'),
-(3, ' Jouve', 'Yoan', ' 21 rue Charles', 'Guipavas', '2021-04-08', 29490, 'YJouve', 'mDp'),
+(3, ' Jouve', 'Yoan', ' 21 rue Charles', 'Guipavas', '2021-04-08', 29490, 'YJouve', 'mDp');
 
 --
 -- Index pour les tables déchargées
